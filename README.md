@@ -42,4 +42,4 @@ The "Packages" directory is located at:
 
 ## Sublime Text 2
 
-Follow the instruction from [Sublime Text 2 branch](https://github.com/pavelpachkovskij/sublime-html-to-jade/tree/SublimeText2)
+Follow the instruction from [Sublime Text 2 branch](https://github.com/anderson916/sublime-html2jade/tree/SublimeText2)
